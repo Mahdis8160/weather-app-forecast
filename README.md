@@ -20,3 +20,9 @@
 #### screen shot of app
 
 https://github.com/Mahdis8160/weather-app-forecast/issues/1#issue-1601991227
+
+
+
+##### deployed link
+
+https://mahdis8160.github.io/weather-app-forecast/
